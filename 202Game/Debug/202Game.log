@@ -1,0 +1,112 @@
+﻿  Animation.cpp
+  Projectiles.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Projectiles.h(35,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Projectiles.cpp(36,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Enemy.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Projectiles.h(35,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Player.h(93,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.h(58,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(56,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(68,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(79,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(87,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(130,35): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(133,36): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(136,35): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(139,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Projectiles.h(35,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Player.h(93,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.h(58,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(130,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(130,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(169,95): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(145,17): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(150,23): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(154,20): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(260,30): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(259,30): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(328,20): warning C4018: '<': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(371,23): warning C4018: '<': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(460,21): warning C4018: '<': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(461,41): warning C4018: '>=': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(579,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\dArr.h(93,25): warning C4018: '>=': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\dArr.h(92): message : while compiling class template member function 'void dArr<TextTag>::remove(int)'
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(559): message : see reference to function template instantiation 'void dArr<TextTag>::remove(int)' being compiled
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.h(63): message : see reference to class template instantiation 'dArr<TextTag>' being compiled
+  main.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Projectiles.h(35,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Player.h(93,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.h(58,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Projectiles.h(35,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Player.h(93,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Player.cpp(125,3): warning C4129: 'L': unrecognized character escape sequence
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\dArr.h(93,25): warning C4018: '>=': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\dArr.h(92): message : while compiling class template member function 'void dArr<Projectiles>::remove(int)'
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Player.cpp(100): message : see reference to function template instantiation 'void dArr<Projectiles>::remove(int)' being compiled
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Player.h(26): message : see reference to class template instantiation 'dArr<Projectiles>' being compiled
+  Background.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\dArr.h(93,25): warning C4018: '>=': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\dArr.h(92): message : while compiling class template member function 'void dArr<sf::RectangleShape>::remove(int)'
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Background.cpp(35): message : see reference to function template instantiation 'void dArr<sf::RectangleShape>::remove(int)' being compiled
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Background.h(8): message : see reference to class template instantiation 'dArr<sf::RectangleShape>' being compiled
+  DynArray.h
+  threadQueue.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Projectiles.h(35,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Player.h(93,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.h(58,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  TextTag.cpp
+D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\TextTag.cpp(14,12): warning C4996: 'sf::Text::setColor': was declared deprecated
+  Generating Code...
+  202Game.vcxproj -> D:\COMPUTER GAMES TECHNOLOGY\year 2\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\Debug\cmp202_1900264.exe

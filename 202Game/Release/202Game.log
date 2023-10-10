@@ -1,0 +1,84 @@
+﻿  Enemy.cpp
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(56,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(68,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(79,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(87,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(130,35): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(133,36): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(136,35): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Enemy.cpp(139,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(130,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(130,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(169,95): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(145,17): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(150,23): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(154,20): warning C4996: 'sf::Text::setColor': was declared deprecated
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(260,30): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(259,30): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(328,20): warning C4018: '<': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(371,23): warning C4018: '<': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(460,21): warning C4018: '<': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(461,41): warning C4018: '>=': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(577,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\dArr.h(93,25): warning C4018: '>=': signed/unsigned mismatch
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\dArr.h(92): message : while compiling class template member function 'void dArr<TextTag>::remove(int)'
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.cpp(557): message : see reference to function template instantiation 'void dArr<TextTag>::remove(int)' being compiled
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\Game.h(63): message : see reference to class template instantiation 'dArr<TextTag>' being compiled
+  main.cpp
+D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\202Game\main.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  threadQueue.cpp
+  Generating code
+  60 of 582 functions (10.3%) were compiled, the rest were copied from previous compilation.
+    25 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  202Game.vcxproj -> D:\COMPUTER GAMES TECHNOLOGY\ASSESSMENTS 2021\CMP202 PROJECT\1900264cmp202\cmp202_coursework\Release\cmp202_1900264.exe
